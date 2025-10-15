@@ -6,7 +6,8 @@ I have created a QM-Progrämmli ähh Tool to Compress and or Sign my Proggis, DL
 
 You can use it with Quick Macros (QM-) Compiler or other Compiler (PureBasic etc.) or as a Standalone (Drag&Drop-) TOOL...
 
-Need This Wonderfull now free Automation Program:
+You need this:
+The Wonderfull (now free) Automation Program:
 Quick Macros - automation software for Windows. Some features:
 Macro commands, including user interface automation, launching programs, file management, text processing (Autotext - Inserts text snippets using keyboard shortcuts) and custom dialogs.
 Triggers, including hotkeys, mouse, scheduler, toolbars and menus.
@@ -39,7 +40,8 @@ C:\[workingpath]\MSOSIP
 Refer to the readme.txt for additional instructions if required in "HOW TO USE THESE COMPONENTS
 
 IMPORTANT: You must registered the two msosip*.dll Files with regsvr32.exe as Admin-User in a fixed directory and Place the vbe7.dll in them! (and you need ev. VC_redist.x86.exe...)
-call from cmd with run as Admin:
+
+Call from cmd with run as Admin:
 cd to the Install directory from msosip.dll... and run
 C:\Windows\System32\regsvr32.exe msosip.dll and C:\Windows\System32\regsvr32.exe msosipx.dll
 
