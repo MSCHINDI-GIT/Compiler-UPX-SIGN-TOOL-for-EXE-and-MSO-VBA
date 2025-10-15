@@ -2,9 +2,14 @@
 Special UPX &amp; SIGN TOOL for EXE and MSO-VBA
 Hello Again!
 
-I have created a Progrämmli ähh Tool to Compress and or Sign my Proggis, DLL's or suitable MS-OFFICE Files...
+I have created a QM-Progrämmli ähh Tool to Compress and or Sign my Proggis, DLL's or suitable MS-OFFICE Files...
 
-You can use it with QM-Compiler or other Compiler (PureBasic etc.) or as a Standalone (Drag&Drop-) TOOL...
+You can use it with Quick Macros (QM-) Compiler or other Compiler (PureBasic etc.) or as a Standalone (Drag&Drop-) TOOL...
+
+Quick Macros is no longer being developed or updated. It has been superseded by LibreAutomate C#.
+You can still download the last QM version, 2.4.12.2. Date 2021-08-22. For Windows 7, 8, 8.1, 10, 11.
+Now it's free. Registration code: XVZVTCLELEFXEFMETVVZPCXFNMCRCFDN-Now%20it%27s%20free
+Links: forum, docs, email.
 
 The unpacked upx.exe from upx-5.0.2-win32.zip - (UPX - X86 Win32 version it is good for all) and the original Microsoft SignTools.exe must be placed in the same folder as of  UPX / SIGN Tool  Runner (e.g. in Subfolder "Plugins") or in a Subfolder from them named "CERT"
 
@@ -33,4 +38,8 @@ C:\Windows\System32\regsvr32.exe msosip.dll and C:\Windows\System32\regsvr32.exe
 
 An informative RegSvr32 message box respectively should then appear...
 
-wfg. from Schindi aus Austri
+wfg. from Schindi aus Austria
+
+QML Source File see Link: https://www.libreautomate.com/forum/showthread.php?tid=7881 (Thread:  Special UPX & SIGN TOOL for EXE and MSO-VBA)
+
+
