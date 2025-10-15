@@ -40,6 +40,6 @@ An informative RegSvr32 message box respectively should then appear...
 
 wfg. from Schindi aus Austria
 
-QML Source File see Link: https://www.libreautomate.com/forum/showthread.php?tid=7881 (Thread:  Special UPX & SIGN TOOL for EXE and MSO-VBA)
+QML Source File can be Found in Link: https://www.libreautomate.com/forum/showthread.php?tid=7881 (= Thread:  Special UPX & SIGN TOOL for EXE and MSO-VBA)
 
 
