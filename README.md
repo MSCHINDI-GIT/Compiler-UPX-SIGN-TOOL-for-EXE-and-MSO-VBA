@@ -7,6 +7,7 @@ I have created a QM-Progrämmli ähh Tool to Compress and or Sign my Proggis, DL
 You can use it with Quick Macros (QM-) Compiler or other Compiler (PureBasic etc.) or as a Standalone (Drag&Drop-) TOOL...
 
 You need this:
+
 The Wonderfull (now free) Automation Program:
 Quick Macros - automation software for Windows. Some features:
 Macro commands, including user interface automation, launching programs, file management, text processing (Autotext - Inserts text snippets using keyboard shortcuts) and custom dialogs.
