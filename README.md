@@ -19,7 +19,7 @@ Quick Macros is no longer being developed or updated. It has been superseded by 
 You can still download the last QM version, 2.4.12.2. Date 2021-08-22. For Windows 7, 8, 8.1, 10, 11.
 Now it's free. Registration code: XVZVTCLELEFXEFMETVVZPCXFNMCRCFDN-Now%20it%27s%20free
 
-The unpacked upx.exe from upx-5.0.2-win32.zip - upx/upx: UPX - the Ultimate Packer for eXecutables (UPX is Copyright © 2024 by Markus F.X.J. Oberhumer, László Molnár & John F. Reiser) (UPX - X86 Win32 version it is good for all), and the original Microsoft SignTools.exe - both must be placed in the same folder as of UPX / SIGN Tool Runner (e.g. in Subfolder "Plugins") or in a Subfolder from them named "CERT"
+The unpacked upx.exe from upx-5.0.2-win32.zip - upx/upx: UPX - the Ultimate Packer for eXecutables (UPX is Copyright © 2024 by Markus F.X.J. Oberhumer, László Molnár & John F. Reiser) (UPX - X86 Win32 version it is good for all), and the original Microsoft SignTools.exe (C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86 - ONLY 32 BIT COMPONENT WORKS CORRECT!!!) - both must be placed in the same folder as of UPX / SIGN Tool Runner (e.g. in Subfolder "Plugins") or in a Subfolder from them named "CERT"
  
 And of course you also need a suitable (ev. self-created...) SIGN (*.pfx) file for code certification (i put them in the Subfolder ...\CERT)...
 
