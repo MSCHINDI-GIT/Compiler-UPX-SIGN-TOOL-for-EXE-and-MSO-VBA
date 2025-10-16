@@ -22,6 +22,7 @@ Now it's free. Registration code: XVZVTCLELEFXEFMETVVZPCXFNMCRCFDN-Now%20it%27s%
 The unpacked upx.exe from upx-5.0.2-win32.zip - upx/upx: UPX - the Ultimate Packer for eXecutables (UPX is Copyright © 2024 by Markus F.X.J. Oberhumer, László Molnár & John F. Reiser) (UPX - X86 Win32 version it is good for all), and the original Microsoft SignTools.exe (from Windows SDK 10 package - Folder: Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86 - ONLY 32 BIT COMPONENT WORKS CORRECT!!!) - both must be placed in the same folder as of UPX / SIGN Tool Runner (e.g. in Subfolder "Plugins") or in a Subfolder from them named "CERT"
  
 And of course you also need a suitable (ev. self-created...) SIGN (*.pfx) file for code certification (i put them in the Subfolder ...\CERT)...
+(see good Article: https://www.windowspro.de/script/new-selfsignedcertificate-selbstsignierte-zertifikate-ausstellen-powershell)
 
 To activate the functions for EXE (after!) Compiling you must make first an Entry (for each exe file) in QM Menu under Run Make Exe:
 In Section: Run functions when creating a exe, After - insert the name of the tool (without extension!!!)
