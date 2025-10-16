@@ -17,7 +17,6 @@ You can create programs for various purposes, and run them in Quick Macros or as
 Quick Macros is no longer being developed or updated. It has been superseded by LibreAutomate C#.
 You can still download the last QM version, 2.4.12.2. Date 2021-08-22. For Windows 7, 8, 8.1, 10, 11.
 Now it's free. Registration code: XVZVTCLELEFXEFMETVVZPCXFNMCRCFDN-Now%20it%27s%20free
-Links: forum, docs, email.
 
 The unpacked upx.exe from upx-5.0.2-win32.zip - (UPX - X86 Win32 version it is good for all) and the original Microsoft SignTools.exe must be placed in the same folder as of  UPX / SIGN Tool  Runner (e.g. in Subfolder "Plugins") or in a Subfolder from them named "CERT"
 
