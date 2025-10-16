@@ -21,7 +21,7 @@ Links: forum, docs, email.
 
 The unpacked upx.exe from upx-5.0.2-win32.zip - (UPX - X86 Win32 version it is good for all) and the original Microsoft SignTools.exe must be placed in the same folder as of  UPX / SIGN Tool  Runner (e.g. in Subfolder "Plugins") or in a Subfolder from them named "CERT"
 
-And of course you also need a suitable (self-created) SIGN (*.pfx) file for code certification (i put them in the Subfolder ...\CERT)...
+And of course you also need a suitable (ev. self-created...) SIGN (*.pfx) file for code certification (i put them in the Subfolder ...\CERT)...
 
 To activate the functions for EXE (after!) Compiling you must make first an Entry (for each exe file) in QM Menu under Run Make Exe:
 In Section: Run functions when creating a exe, After - insert the name of the tool (without extension!!!)
