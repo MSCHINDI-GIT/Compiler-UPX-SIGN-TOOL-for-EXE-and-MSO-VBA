@@ -9,7 +9,7 @@ You can use it with Quick Macros (QM-) Compiler or other Compiler (PureBasic etc
 You need this:
 
 The Wonderfull (now free) Automation Program:
-Quick Macros - automation software for Windows. Some features:
+Quick Macros - automation software for Windows (https://quickmacros.com/). Some features:
 Macro commands, including user interface automation, launching programs, file management, text processing (Autotext - Inserts text snippets using keyboard shortcuts) and custom dialogs.
 Triggers, including hotkeys, mouse, scheduler, toolbars and menus.
 Records keyboard and mouse actions.
